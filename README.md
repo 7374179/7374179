@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋
 
 <!--
@@ -7,9 +7,6 @@
 
 
 <div align=center><h1>Currently being updated</h1></div>
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=hahaha%20There&fontSize=100)
-
 
 
 Here are some ideas to get you started:
@@ -55,11 +52,3 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7374179%2Fhit-counter&count_bg=%23000000&title_bg=%23303030&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7374179&layout=compact)](https://github.com/7374179/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7374179&show_icons=true&theme=radical)
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=hahaha%20There&fontSize=100)
--->
