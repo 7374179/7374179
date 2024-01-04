@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/7374179/7374179/assets/108831857/033f428b-6a4d-441b-9b79-e164e7637ef3)
+<!--![image](https://github.com/7374179/7374179/assets/108831857/033f428b-6a4d-441b-9b79-e164e7637ef3)-->
 
 <!--
 **7374179/7374179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
