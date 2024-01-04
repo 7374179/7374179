@@ -1,11 +1,12 @@
-
 ### Hi there 👋
+
+![image](https://github.com/7374179/7374179/assets/108831857/033f428b-6a4d-441b-9b79-e164e7637ef3)
 
 <!--
 **7374179/7374179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+<!--
 <div align=center><h1>Currently being updated</h1></div>
 
 
@@ -50,5 +51,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
   <br>
 </div>
-
-
+-->
